@@ -1,0 +1,12 @@
+.slider{
+    border-radius: 16px;
+}
+#co_hocha:hover{
+    transform: scale(1.1, 1.1)
+}
+#links:hover{
+    color: blue;
+}
+.nav-link:hover{
+    color: orange;
+}
